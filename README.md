@@ -7,6 +7,7 @@ This repository is my attempt at making a Habit Streak Counter application for G
 I used the tradtional way of developing websites, that is to use only HTML, CSS, and JavaScript.
 
 
+
 This web application consists of the following functionalities:
 
 -> Habit List: Users can maintain a list of habits and mark them as completed.
@@ -14,6 +15,7 @@ This web application consists of the following functionalities:
 -> Streak Tracker: A visual tracker (e.g., progress bar or calendar heatmap) to indicate habit consistency.
 
 -> Reset Mechanism: Automatically reset streaks when a habit is missed.
+
 
 
 Instructions on how to use the app:
@@ -27,6 +29,7 @@ Instructions on how to use the app:
 -> The streak bar shows your streak and renews everytime you skipped the habit for a day
 
 -> You can click on the delete button beside the streak bar to delete the habit from the habit list.
+
 
 
 Other details:
