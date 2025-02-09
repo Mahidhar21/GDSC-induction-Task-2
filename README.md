@@ -36,6 +36,8 @@ Other details:
 
 -> The data was stored locally on JSON files.
 
+-> I have provided the explanation for various parts of the project in the code files itself
+
 -> The resources that I used for the background and text:
 
     https://www.shecodes.io/palettes/1623
